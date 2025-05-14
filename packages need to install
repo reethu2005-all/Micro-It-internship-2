@@ -1,0 +1,8 @@
+Packages that need to get installed
+
+Package	, Purpose ,	Install Command
+pyttsx3-------	Text-to-speech feedback --------	pip install pyttsx3
+tkinter	GUI framework (built-in for most)--------------	No installation needed (usually pre-installed with Python)
+datetime---------	To add timestamps-----------	Built-in Python module
+csv-----------	To write to .csv file----------	Built-in Python module
+random----------	For computer choice logic---------Built-in Python module
